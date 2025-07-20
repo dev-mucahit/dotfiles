@@ -2,7 +2,7 @@
 
 My personal config files
 
-![Image](https://github.com/user-attachments/assets/c070bcd8-f866-4f7b-ad56-0d2a56a3a10e)
+![Image](https://github.com/user-attachments/assets/b34dc9a4-9207-4b4f-a5e0-f04aea66c707)
 
 ## Contents
 
